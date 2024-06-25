@@ -6,7 +6,7 @@ Date: 25/06/2024
 [Callum Rollo](https://github.com/callumrollo)
 
 ## Participations: 
-- [name](github profile link)
+- [Julieta Logarzo](https://github.com/julietalogarzo)
 - [Ailin Brakstad](https://github.com/abr099)
 
 ## Agenda:
