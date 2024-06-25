@@ -6,7 +6,7 @@ Date: 25/06/2024
 [Callum Rollo](https://github.com/callumrollo)
 
 ## Participations: 
-- [name](github profile link)
+- [Julieta Logarzo](https://github.com/julietalogarzo)
 
 ## Agenda:
 1. What is git/github
