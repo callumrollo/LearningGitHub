@@ -4,6 +4,7 @@ Date: 25/06/2024
 
 ## Trainer
 [Callum Rollo](https://github.com/callumrollo)
+[Eleanor Frajka-Williams](http://github.com/eleanorfrajka)
 
 ## Participations: 
 - [name](github profile link)
