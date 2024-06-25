@@ -7,6 +7,7 @@ Date: 25/06/2024
 
 ## Participations: 
 - [Julieta Logarzo](https://github.com/julietalogarzo)
+- [Ailin Brakstad](https://github.com/abr099)
 
 ## Agenda:
 1. What is git/github
