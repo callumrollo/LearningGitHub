@@ -7,6 +7,7 @@ Date: 25/06/2024
 
 ## Participations: 
 - [name](github profile link)
+- [Félix Margirier](https://github.com/fmargirier)
 
 ## Agenda:
 1. What is git/github
