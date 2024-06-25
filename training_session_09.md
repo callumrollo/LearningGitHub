@@ -8,6 +8,7 @@ Date: 25/06/2024
 ## Participations: 
 - [name](github profile link)
 - [Ailin Brakstad](https://github.com/abr099)
+- [Chiara Monforte] (https://github.com/MOchiara)
 
 ## Agenda:
 1. What is git/github
