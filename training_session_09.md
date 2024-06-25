@@ -9,6 +9,7 @@ Date: 25/06/2024
 - [Julieta Logarzo](https://github.com/julietalogarzo)
 - [Ailin Brakstad](https://github.com/abr099)
 - [Félix Margirier](https://github.com/fmargirier)
+- [Eleanor Frajka-Williams](https://github.com/eleanorfrajka)
 
 ## Agenda:
 1. What is git/github
